@@ -1,13 +1,14 @@
 # ACEXR Test
 ## SINGLE PLAYER AND MULTIPLAYER REUSABLE OBJECTS
+![acexr](https://github.com/AdamMcCurdy/AceXR-TEST/assets/3011035/154950ae-aebf-41a1-b35d-ac7e35f5bc48)
 
 > [!NOTE]
 > I spent about 2 hours on this test this weekend, I feel there are many areas to work on.
-> Network authority needs to be exchanged when players hit targets
-> Lighting seems duplicated or too bright at the very least
-> Network latency frame prediction / compensation not implemented
-> Color change doesn't happen on spawn, but does happen on using E key.
-> Currently space and mouse button triggers shoot event. 
+- Network authority needs to be exchanged when players hit targets
+- Lighting seems duplicated or too bright at the very least
+- Network latency frame prediction / compensation not implemented
+- Color change doesn't happen on spawn, but does happen on using E key.
+- Currently space and mouse button triggers shoot event. 
 
 ## Task
 This interview task involves replicating the hit detection and reset function of an existing core
