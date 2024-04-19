@@ -1,4 +1,4 @@
-# ACEXR Test
+# Coding test for multiplayer shooter
 ## SINGLE PLAYER AND MULTIPLAYER REUSABLE OBJECTS
 ![acexr](https://github.com/AdamMcCurdy/AceXR-TEST/assets/3011035/154950ae-aebf-41a1-b35d-ac7e35f5bc48)
 
