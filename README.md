@@ -1,6 +1,6 @@
 # Coding test for multiplayer shooter
 ## SINGLE PLAYER AND MULTIPLAYER REUSABLE OBJECTS
-![acexr](https://github.com/AdamMcCurdy/AceXR-TEST/assets/3011035/154950ae-aebf-41a1-b35d-ac7e35f5bc48)
+![Shooter](https://github.com/AdamMcCurdy/Photon-Multiplayer-Shooter-Unity/assets/3011035/154950ae-aebf-41a1-b35d-ac7e35f5bc48)
 
 > [!NOTE]
 > I spent about 2 hours on this test this weekend, I feel there are many areas to work on.
@@ -12,7 +12,7 @@
 
 ## Task
 This interview task involves replicating the hit detection and reset function of an existing core
-feature of Ace VR creating a scene of targets with hit detection that can be traced to the
+feature of VR creating a scene of targets with hit detection that can be traced to the
 player that hit them in a reusable way.
 - Set up a new Unity project using version 2022.3.20f1
 - Setup the project/scene for Photon fusion or PUN2 - https://doc.photonengine.com
@@ -24,15 +24,11 @@ coming out the front
     - Both scenes upon running should instantiate as similar as possible prefab “targets” (6-10 basic 1 m white cubes) with hit detection that change color when “hit” (a hit is detected when the ray of a player is crossing with the target while the player presses the spacebar)
     - Hit targets should change color based on which player hit them (green for player1/single player, red for player2, etc) for all players to see for about 5 seconds before returning to their original state
 
-● Share this project by inviting Chris (@ChrisAceXR) and Aaron (@blobworks) to be
-collaborators on a new private Github repository, the project should be ready to go
-upon fetch and playable within Unity editor. It will be tested on PC.
-
 Feel free to add more depth or adjustable parameters in the editor if deemed helpful, as well
 as any comments for choices and designs made within the script(s), everything made here
 will be discussed in the panel interview that follows once the above is completed. We don’t
 expect you to take more than a few hours on this and are not expecting anything to be pretty
 or polished for this so even if you only partially complete it feel free to submit what you have.
-*All code / assets created for any of Ace’s interview assignments are strictly for the purpose
+*All code / assets created for any of [COMPANY]’s interview assignments are strictly for the purpose
 of assessing the candidate, it will not be repurposed or reused for any other purposes
 without the involvement and consent of the candidate.
